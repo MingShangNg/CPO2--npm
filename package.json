@@ -1,0 +1,20 @@
+{
+  "name": "cpo2--npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MingShangNg/CPO2--npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MingShangNg/CPO2--npm/issues"
+  },
+  "homepage": "https://github.com/MingShangNg/CPO2--npm#readme"
+}
